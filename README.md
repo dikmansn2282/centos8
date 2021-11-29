@@ -4,14 +4,14 @@ Centos 8
 # Java
 https://linuxize.com/post/install-java-on-centos-8/
 
-> # .bash_profile
+> ## .bash_profile
 >
-> # Get the aliases and functions
+> ## Get the aliases and functions
 > if [ -f ~/.bashrc ]; then
 >         . ~/.bashrc
 > fi
 
-> # User specific environment and startup programs
+> ## User specific environment and startup programs
 > JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.312.b07-2.el8_5.x86_64
 > M2_HOME=/opt/maven
 > M2=/opt/maven/bin

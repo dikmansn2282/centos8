@@ -1,5 +1,5 @@
-# centos8
-Centos 8
+# centos 8
+
 ----------------------------------------------------------
 # Java
 https://linuxize.com/post/install-java-on-centos-8/
@@ -21,6 +21,9 @@ https://linuxize.com/post/install-java-on-centos-8/
 
 # Ansible
 https://linuxhint.com/install_ansible_centos8/
+
+# Maven
+https://linuxize.com/post/how-to-install-apache-maven-on-centos-8/
 
 # Docker
 https://linuxhint.com/install-use-docker-centos-8/
